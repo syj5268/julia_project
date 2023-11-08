@@ -2,5 +2,5 @@
 
 
 ## 1. dynamic_programming
--The shortest path problem
--TSP
+- The shortest path problem
+- TSP
