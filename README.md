@@ -2,7 +2,7 @@
 
 
 ## 1. dynamic_programming
-- The shortest path problem
+- The shortest path problem with 4 stages
 - TSP
 
 ## 2. cuttingplane_algorithm
