@@ -49,4 +49,4 @@ end
 
 @time run_tsp_dp(10)
 @time run_tsp_dp(20)
-@time run_tsp_dp(30)
+@time run_tsp_dp(30) # This will generate an OutOfMemoryError.
