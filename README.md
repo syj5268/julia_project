@@ -5,6 +5,7 @@
 
 ## study
 * BPP
-* DP
+* Julia4OR
+* NetworkTheory
 * PDPTW
 * TSPsolver
